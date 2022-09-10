@@ -1,0 +1,26 @@
+header{
+  display: flex;
+  justify-content: row;
+  height: 5%;
+    letter-spacing: 5px;
+    background-color: #ffc6ff;
+    padding: 10px;
+    box-shadow: 2px 4px 10px 3px rgb(222, 135, 210);
+}
+
+nav ul{
+  display: flex;
+  color: rgb(238, 111, 204);
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li{
+  padding-left: 15%;
+}
+
+footer{
+  background-color: #ffc6ff;
+  display: flex;
+  justify-content: center;
+}
