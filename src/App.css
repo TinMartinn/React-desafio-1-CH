@@ -1,3 +1,5 @@
+
+
 header{
   display: flex;
   justify-content: row;
@@ -28,7 +30,7 @@ footer{
 .boton{
   border-radius: 25%;
   background-color: #ffc6ff;
-  border-color: rgb(187, 36, 36);
+  color: rgb(238, 111, 204);
   padding: 5px 10px;
   margin: 2px;
 }
@@ -37,3 +39,22 @@ footer{
   display: flex;
   justify-content: center;
 }
+
+.imagen{
+  width: 250px;
+}
+
+.containerCards{
+  padding-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+}
+
+.card{
+  margin: 20px;
+  background-color: #f1dff1;
+  width: 250px;
+  height: 500px;
+}
+

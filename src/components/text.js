@@ -18,14 +18,13 @@ const Text = () => {
     return (
         <div>
             <h1>
-                Todos nuestros productos estaran disponibles muy pronto
+                nuestros productos mas uwu
             </h1>
-            <div  className='boxGeneral'>
+            {/* <div  className='boxGeneral'>
                 <button className='boton' onClick={subir}>+</button>{cantidad}
                 <button className='boton' onClick={bajar}>-</button>
-            </div>
+            </div> */}
         </div>
     );
 }
-
 export default Text;
