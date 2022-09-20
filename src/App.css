@@ -30,7 +30,7 @@ footer{
 .boton{
   border-radius: 25%;
   background-color: #ffc6ff;
-  color: rgb(238, 111, 204);
+  border-color: rgb(238, 111, 204);;
   padding: 5px 10px;
   margin: 2px;
 }
@@ -58,3 +58,14 @@ justify-content: center;
   height: 500px;
 }
 
+.cardDetallada{
+  display: flex;
+  background-color: #f1dff1;
+  margin: 20px;
+}
+
+.agregarCarrito{
+  background-color: rgb(222, 135, 210);
+  border-radius: 20px;
+  border-color: rgb(196, 10, 10);
+}

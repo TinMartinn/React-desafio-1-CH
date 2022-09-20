@@ -2,6 +2,7 @@
 const datos = [
     {
     id:1,
+    detalles:"peluche Soft super suave y tierno. Ideal como compañero de Juegos o de la hora de dormir de los pequeños de la casa, o como el detalle ideal para esa persona especial.",
     nombre:"panda",
     descripcion:"peluche de panda",
     precio:1500,

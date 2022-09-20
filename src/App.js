@@ -1,15 +1,15 @@
 import './App.css';
-import Text from "./components/text";
 import Nav from "./components/nav";
 import Footer from './components/footer';
 import Productos from './container/productos';
+import ItemDetailProducts from './container/itemDetailProducts';
 
 const App = () => {
   return (
     <>
     <Nav />
-    <Text />
-    <Productos />
+    {/* <Productos /> */}
+    <ItemDetailProducts />
     <Footer />
     </>
   );
